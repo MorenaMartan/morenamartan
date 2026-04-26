@@ -11,38 +11,34 @@ Junior Full-Stack Developer focused on building real-time web applications and s
 
 ## 🛠️ Tech Stack
 **Frontend:** Vue.js, JavaScript, HTML, CSS  
-**Backend:** Firebase, Node.js (learning)  
+**Backend:** Firebase, Node.js  
 **Databases:** MySQL, MongoDB  
 **Tools:** Git, GitHub, Vercel, Figma  
 
 ## 📌 Featured Projects
 
-### 🔹 iron_score – Real-Time Competition Platform
+### 🔹 [iron_score](https://github.com/MorenaMartan/IronScore_Vue) – Real-Time Competition Platform
+[Live Demo](https://iron-score.vercel.app)
+
 Full-stack web app that digitizes bodybuilding competition judging with real-time scoring and ranking.
 
-👉 https://iron-score.vercel.app
-
-- Real-time scoring using Firebase  
-- Live competitor tracking and ranking updates  
-- Responsive UI for judges and organizers  
+- Real-time scoring using Firebase
+- Live competitor tracking and ranking updates
+- Responsive UI for judges and organizers
 
 ---
 
-### 🔹 E-Commerce Database System
-Relational MySQL database designed for scalable e-commerce operations.
+### 🔹 [BeautyDiary](https://github.com/MorenaMartan/BeautyDiary_frontend) – Beauty Service Management App
+Full-stack application for managing beauty service workflows, clients, and appointments.
 
-- Complex schema with normalized relationships  
-- Stored procedures for cart and order processing  
-- Optimized queries for performance  
+- Vue frontend with structured UI components
+- JavaScript backend API
+- Built from real service-industry workflow experience
 
 ---
 
-### 🔹 Wedding Planner Application (In Progress)
-Full-stack event management platform with real-time vendor coordination.
-
-- Guest management, budgeting, and timeline features  
-- Real-time communication system (in development)  
-- Built with Vue.js and MongoDB  
+### 🔹 [Webshop Database](https://github.com/MorenaMartan/Webshop-Database) – E-Commerce Database System
+Relational MySQL-backed webshop system for products, carts, orders, and admin workflows.
 
 ---
 
