@@ -1,3 +1,5 @@
+![Banner](./morenamartan_banner.png)
+
 # Hi, I'm Morena 👋
 
 Junior Full-Stack Developer focused on building real-time web applications and scalable database systems.
