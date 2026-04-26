@@ -2,58 +2,72 @@
 
 # Hi, I'm Morena 👋
 
-Junior Full-Stack Developer focused on building real-time web applications and scalable database systems.
+Junior Full-Stack Developer building real-time web applications and scalable database systems.
+
+---
 
 ## 🚀 What I Do
-- Build full-stack applications using Vue.js, Firebase, and modern JavaScript
-- Design and optimize relational and NoSQL databases (MySQL, MongoDB)
-- Develop real-time features and user-focused systems that solve practical problems
+- Build full-stack applications with Vue.js, Firebase, and JavaScript  
+- Design scalable database systems (MySQL, MongoDB)  
+- Develop real-time features and workflow-driven applications  
+
+---
 
 ## 🛠️ Tech Stack
 **Frontend:** Vue.js, JavaScript, HTML, CSS  
 **Backend:** Firebase, Node.js  
 **Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Vercel, Figma  
+**Tools & Deployment:** Git, GitHub, Vercel, Figma  
+
+---
 
 ## 📌 Featured Projects
 
-### 🔹 [iron_score](https://github.com/MorenaMartan/IronScore_Vue) – Real-Time Competition Platform
-[Live Demo](https://iron-score.vercel.app)
+### 🔹 [iron_score](https://github.com/MorenaMartan/IronScore_Vue) — Real-Time Competition Platform  
+👉 **Live Demo:** https://iron-score.vercel.app  
+## 📸 Preview
+![iron_score](./screenshots/iron_score.png)
 
-Full-stack web app that digitizes bodybuilding competition judging with real-time scoring and ranking.
+Full-stack application that replaces manual bodybuilding judging with real-time digital scoring and live rankings.
 
-- Real-time scoring using Firebase
-- Live competitor tracking and ranking updates
-- Responsive UI for judges and organizers
-
----
-
-### 🔹 [BeautyDiary](https://github.com/MorenaMartan/BeautyDiary_frontend) – Beauty Service Management App
-Full-stack application for managing beauty service workflows, clients, and appointments.
-
-- Vue frontend with structured UI components
-- JavaScript backend API
-- Built from real service-industry workflow experience
+- Real-time scoring system using Firebase  
+- Live competitor tracking and automatic ranking updates  
+- Responsive UI for judges and event organizers  
+- Designed for low-latency updates during live competitions  
 
 ---
 
-### 🔹 [Webshop Database](https://github.com/MorenaMartan/Webshop-Database) – E-Commerce Database System
-Relational MySQL-backed webshop system for products, carts, orders, and admin workflows.
+### 🔹 [BeautyDiary](https://github.com/MorenaMartan/BeautyDiary_frontend) — Beauty Service Management App  
+
+Full-stack application for managing beauty service workflows, client records, and appointments, built from real industry experience.
+
+- Vue frontend for structured service and client management  
+- Node.js backend API for application logic  
+- Designed based on 5+ years of real service workflows  
+- Focused on usability and operational efficiency  
 
 ---
 
-## 📈 Current Focus
-- Improving backend development (Node.js, APIs)  
-- Building scalable real-time systems  
-- Strengthening full-stack architecture skills  
+### 🔹 [Webshop Database](https://github.com/MorenaMartan/Webshop-Database) — E-Commerce System  
+
+Full-stack webshop system with MySQL database design, user authentication, cart management, and admin workflows.
+
+- Designed relational database with ER/EER models  
+- Implemented product, user, and order management  
+- Built backend logic using Flask and MySQL  
+- Focused on data integrity and scalable structure  
+
+---
 
 ## 💼 Background
-5+ years of customer-facing experience, giving me strong insight into user behavior, workflows, and real-world problem solving.
-
-## 📫 Contact
-- LinkedIn: linkedin.com/in/morenamartan
-- Email: morena.martan@outlook.com
+5+ years of customer-facing experience, giving me strong insight into user behavior, workflows, and real-world problem solving — directly applied in my applications.
 
 ---
 
-⭐ I’m actively looking for a Junior Developer opportunity where I can contribute to real-world products and grow quickly.
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/morenamartan  
+- Email: morena.martan@outlook.com  
+
+---
+
+⭐ Open to Junior Full-Stack Developer opportunities.
