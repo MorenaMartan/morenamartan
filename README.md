@@ -53,7 +53,7 @@ Full-stack event management platform with real-time vendor coordination.
 5+ years of customer-facing experience, giving me strong insight into user behavior, workflows, and real-world problem solving.
 
 ## 📫 Contact
-- LinkedIn: (add your link)
+- LinkedIn: linkedin.com/in/morenamartan
 - Email: morena.martan@outlook.com
 
 ---
